@@ -1,6 +1,7 @@
 # Carlos Ramírez
 
 **Desarrollador Full-Stack con enfoque en IA generativa y sistemas agénticos**
+
 Guadalajara, México · disponible para trabajo remoto
 
 Construyo aplicaciones con IA de punta a punta: interfaces en React y TypeScript, backends en Python (FastAPI) e integración con LLMs (OpenAI, Gemini, Grok y Claude). Diseño empleados virtuales con IA y RAG, y automatizaciones con n8n.
@@ -33,7 +34,9 @@ Construyo aplicaciones con IA de punta a punta: interfaces en React y TypeScript
 ![n8n](https://img.shields.io/badge/n8n-0C1730?style=for-the-badge&logo=n8n&logoColor=46D2E1)
 
 **IA y agentes:** APIs de OpenAI, Gemini, Grok y Claude · OpenAI Agents SDK · MCP · RAG · Qdrant · ingeniería de prompts · LLM-as-judge
+
 **Backend y datos:** FastAPI, Flask · REST y GraphQL · MongoDB, SQLite · JWT
+
 **Herramientas:** Git · pytest · Claude Code
 
 ## Contacto
@@ -41,3 +44,4 @@ Construyo aplicaciones con IA de punta a punta: interfaces en React y TypeScript
 - Portafolio: https://carlosisaelramirezgonzalez.github.io
 - LinkedIn: https://www.linkedin.com/in/carlos-i-ramirez
 - Correo: carlosramirez3982@gmail.com
+
